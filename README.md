@@ -20,7 +20,7 @@ I build end-to-end BI solutions using **Power BI, SQL, DAX, Python, and automate
 **Languages:** SQL, Python, M (Power Query)  
 **BI Tools:** Power BI, Looker Studio, Tableau (basic), Excel Advanced  
 **Databases:** SQL Server, MySQL, RDBMS  
-**Other:** Power Automate, Git, CI/CD (basic), SAP ECC, Fico, Traffilog, Bustrax  
+**Other:** Power Automate, Git, CI/CD (basic), SAP ECC, Fico, Traffilog, Bustrax, SAP, LIS  
 
 ---
 
@@ -78,7 +78,7 @@ Desarrollo soluciones BI de punta a punta utilizando **Power BI, SQL, DAX, Pytho
 **Lenguajes:** SQL, Python, M (Power Query)  
 **Herramientas BI:** Power BI, Looker Studio, Tableau (básico), Excel Avanzado  
 **Bases de datos:** SQL Server, MySQL, RDBMS  
-**Otros:** Power Automate, Git, CI/CD (básico), SAP ECC, Fico, Traffilog, Bustrax  
+**Otros:** Power Automate, Git, CI/CD (básico), SAP ECC, Fico, Traffilog, Bustrax, SAP, LIS 
 
 ---
 
